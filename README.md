@@ -1,6 +1,6 @@
 ## Howdy mate
 
-🔭 Currently 17, Student & Software Developer\n
+🔭 Currently 17, Student & Software Developer
   🌱 Researching about AI, ML and their fundamentals
   📍 Residing in Tehran, Iran
   🗽 Student of Salam Schools Complex
