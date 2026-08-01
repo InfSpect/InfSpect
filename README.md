@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FF66,0099FF,8A2BE2&height=220&section=header&text=Tanmay%20Kumawat&fontSize=60&fontColor=ffffff&fontAlignY=40&textAnimation=fadeIn" width="100%" alt="Tanmay Kumawat Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FF66,0099FF,8A2BE2&height=220&section=header&text=A.%20Far&fontSize=60&fontColor=ffffff&fontAlignY=40&textAnimation=fadeIn" width="100%" alt="Tanmay Kumawat Header" />
 </p>
 
 <p align="center">
