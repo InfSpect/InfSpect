@@ -1,23 +1,23 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FF66,0099FF,8A2BE2&height=220&section=header&text=Arian%20Farrokhi&fontSize=60&fontColor=ffffff&fontAlignY=40&textAnimation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FF66,0099FF,8A2BE2&height=220&section=header&text=Arian%20Farrokhi&fontSize=60&fontColor=ffffff&fontAlignY=40&textAnimation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&weight=800&size=24&duration=3000&pause=1000&color=00FF66%C2%A2er=true&vCenter=true&width=800&height=50&lines=Software+Engineer;API+Integration+Expert;Web+Development;Application+Development;AI+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&weight=800&size=24&duration=3000&pause=1000&color=00FF66%C2%A2er=true&vCenter=true&width=800&height=50&lines=Software+Engineer;API+Integration+Expert;Web+Development;Application+Development;AI+Enthusiast"/>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
 </p>
 
 ## 🚀 About Me
 
 > **Hello! I'm Arian**, a Software Engineer who has been in tech since 7, who specializes in building performant, responsive, and secure applications. Additionally, I prefer doing my work without the full integration of AI, although knowing the concepts of Artificial Intelligence.
 
-<br />
+<br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
 </p>
 
 ## ⚡ Tech Arsenal
@@ -28,13 +28,13 @@
     <td width="50%" valign="top" style="padding: 10px;">
       <h3>🎨 Frontend Development</h3>
       <p style="font-size: 13px; color: #8b949e;">Building responsive, fast, and interactive user interfaces.</p>
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,firebase" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,firebase"/>
     </td>
     <!-- Backend Card -->
     <td width="50%" valign="top" style="padding: 10px;">
       <h3>⚙️ Backend & Database</h3>
       <p style="font-size: 13px; color: #8b949e;">Developing APIs, routing, and database schemas.</p>
-      <img src="https://skillicons.dev/icons?i=nodejs,flask,mysql,fastapi,cloudflare" />
+      <img src="https://skillicons.dev/icons?i=nodejs,flask,mysql,cloudflare"/>
     </td>
   </tr>
   <tr>
@@ -42,24 +42,21 @@
     <td width="50%" valign="top" style="padding: 10px;">
       <h3>🛠️ Tools & DevOps</h3>
       <p style="font-size: 13px; color: #8b949e;">Managing environments, pipelines, and developer operations.</p>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea"/>
     </td>
     <!-- Integrations & Others -->
     <td width="50%" valign="top" style="padding: 10px;">
       <h3>🤖 OAuth Integration | Others</h3>
       <p style="font-size: 13px; color: #8b949e;">Leveraging advanced artificial intelligence systems.</p>
-      <img src="https://skillicons.dev/icons?i=discord,instagram,gmail,bots" />
-      <div style="margin-top: 10px;">
-        <code>Gemini</code> <code>Antigravity</code> <code>Stitch</code>
-      </div>
+      <img src="https://skillicons.dev/icons?i=discord,instagram,bots,gmail"/>
     </td>
   </tr>
 </table>
 
-<br />
+<br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
 </p>
 
 ## 💼 Work History
@@ -69,9 +66,9 @@
   <tr>
     <td width="25%" valign="top" style="border: none;">
       <code style="font-size: 14px; color: #00FF66;"><b>Feb 2026 - Present</b></code>
-      <br />
+      <br/>
       <b>Freelancer</b>
-      <br />
+      <br/>
       <sub>Part-Time</sub>
     </td>
     <td width="75%" valign="top" style="border: none;">
@@ -85,14 +82,14 @@
     </td>
   </tr>
   <!-- Divider -->
-  <tr><td colspan="2" style="border: none; padding: 10px 0;"><hr style="border: 0; border-top: 1px solid #222;" /></td></tr>
+  <tr><td colspan="2" style="border: none; padding: 10px 0;"><hr style="border: 0; border-top: 1px solid #222;"/></td></tr>
   <!-- 2nd -->
   <tr>
     <td width="25%" valign="top" style="border: none;">
       <code style="font-size: 14px; color: #0099FF;"><b>Jun 2024 - Present</b></code>
-      <br />
+      <br/>
       <b>Student</b>
-      <br />
+      <br/>
       <sub>Part-Time</sub>
     </td>
     <td width="75%" valign="top" style="border: none;">
@@ -103,10 +100,10 @@
     </td>
   </tr>
 
-<br />
+<br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
 </p>
 
 ## 🧡 Achievements
@@ -164,20 +161,20 @@
   </tr>
 </table>
 
-<br />
+<br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
 </p>
 
 ## 📬 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ArianFarrokhi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp;
-  <a href="https://github.com/InfSpect"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> &nbsp;
-  <a href="mailto:ariyanfarrokhi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/ArianFarrokhi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
+  <a href="https://github.com/InfSpect"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> &nbsp;
+  <a href="mailto:ariyanfarrokhi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FF66,0099FF,8A2BE2&height=80&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FF66,0099FF,8A2BE2&height=80&section=footer" width="100%" alt="Footer Banner"/>
 </p>
