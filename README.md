@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&weight=800&size=24&duration=3000&pause=1000&color=00FF66%C2%A2er=true&vCenter=true&width=800&height=50&lines=Software+Engineer;API+Integration+Expert;Web+Development;Application+Development;AI+Enthusiast"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&weight=800&size=24&duration=3000&pause=1000&color=00FF66%C2%A2er=true&vCenter=true&width=800&height=50&lines=Software+Engineer;API+Integration+Developer;Web+Development;Application+Development;AI+Enthusiast"/>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-> **Hello! I'm Arian**, a Software Engineer who has been in tech since 7, who specializes in building performant, responsive, and secure applications. Additionally, I prefer doing my work without the full integration of AI, although knowing the concepts of Artificial Intelligence.
+> **Hello! I'm Arian**, a software developer focused on building performant, responsive, and secure applications. I've been exploring technology since childhood, with experience across frontend, backend, APIs, integrations, and application development.
 
 <br/>
 
@@ -46,8 +46,8 @@
     </td>
     <!-- Integrations & Others -->
     <td width="50%" valign="top" style="padding: 10px;">
-      <h3>🤖 OAuth Integration | Others</h3>
-      <p style="font-size: 13px; color: #8b949e;">Leveraging advanced artificial intelligence systems.</p>
+      <h3>🔗 APIs & Integrations</h3>
+      <p style="font-size: 13px; color: #8b949e;">Building OAuth flows and integrating third-party APIs and services.</p>
       <img src="https://skillicons.dev/icons?i=discord,instagram,bots,gmail"/>
     </td>
   </tr>
@@ -74,10 +74,10 @@
     <td width="75%" valign="top" style="border: none;">
       <b>Software Developer</b>
       <p style="margin-top: 4px; font-size: 14px; color: #b3b3b3;">
-        10+ yrs of experience (since 7), familiar with most of the latest languages and interacted with many others; Both back-end & front-end.
+        Developing software since age 7, with experience across frontend, backend, APIs, databases, integrations, and application development.
       </p>
       <p style="font-size: 13px;">
-        🔧 <code>Flutter</code> <code>C++</code> <code>Java</code> <code>Python</code> <code>SQLite / MySQL</code> <code>Flask</code> <code>Flask</code> <code>Web Dev (HTML, CSS, JS, TailWind, FastAPI, Etc.)</code> <code>OAuth Development</code> <code>Discord API, Google API</code> <code>Firebase</code> <code>Many more...</code>
+        🔧 <code>Flutter</code> <code>C++</code> <code>Java</code> <code>Python</code> <code>SQLite / MySQL</code> <code>Flask</code> <code>Web Dev (HTML, CSS, JS, Bootstrap, Tailwind, Flask)</code> <code>OAuth Development</code> <code>Discord API, Google API</code> <code>Firebase</code> <code>Many more...</code>
       </p>
     </td>
   </tr>
@@ -95,10 +95,11 @@
     <td width="75%" valign="top" style="border: none;">
       <b>Full Stack Student</b>
       <p style="margin-top: 4px; font-size: 14px; color: #b3b3b3;">
-        Specialized in studying in <a href="https://salamsch.org/">Salam Schools Complex</a> (Tehran, Iran), along with the impact of tech on my life.
+        Studying at <a href="https://salamsch.org/">Salam Schools Complex</a> in Tehran, with a focus on full stack development and the role of technology in my work and studies.
       </p>
     </td>
   </tr>
+</table>
 
 <br/>
 
@@ -117,7 +118,7 @@
     <td width="50%" valign="top" align="left" style="padding: 15px;">
       <h3><a href="https://salamcup.salamsch.org/" target="_blank">SalamCup 2023</a></h3>
       <p style="font-size: 14px; color: #b3b3b3;">
-        2023 SalamCup National Research Festival; Located in Tehran, Iran.
+        2023 SalamCup was a National Research Festival; Located in Tehran, Iran.
       </p>
       <p>
         <code>Information Technology - <bold>1st place</bold></code> <code>C++ Tournament - <bold>1st place</bold></code>
@@ -125,7 +126,7 @@
     </td>
     <!-- 2nd -->
     <td width="50%" valign="top" align="left" style="padding: 15px;">
-      <h3><a href="https://salamcup.salamsch.org/" target="_blank">SalamCup 2024, 2026</a></h3>
+      <h3><a href="https://salamcup.salamsch.org/" target="_blank">SalamCup 2024 & 2026</a></h3>
       <p style="font-size: 14px; color: #b3b3b3;">
         2024 & 2026 SalamCup National Research Festival; Located in Tehran, Iran.
       </p>
@@ -150,9 +151,9 @@
     </td>
     <!-- Project 4: AI Text-to-Image Generator -->
     <td width="50%" valign="top" align="left" style="padding: 15px;">
-      <h3>🎨 <a href="https://github.com/kumawat-tanmay/AI-Text-to-Image-generator" target="_blank">Noavard - by Beheshi University</a></h3>
+      <h3><a href="https://en.sbu.ac.ir/" target="_blank">Noavard - by Shahid Beheshti University</a></h3>
       <p style="font-size: 14px; color: #b3b3b3;">
-        Shahid Beheshti University Science and Technology Park – Virtual stage of the festival specializing in programming tracks (Python and ACM).
+        Shahid Beheshti University Science and Technology Park – Virtual stage of the festival specializing in programming tracks.
       </p>
       <p>
         <code>C++ Tournament - <bold>Commendation</bold></code>
