@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&weight=800&size=24&duration=3000&pause=500&color=00FF66%C2%A2er=true&vCenter=true&width=800&height=50&lines=Software+Engineer;API+Integration+Developer;Web+Development;Application+Development;AI+Enthusiast"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&weight=800&size=24&duration=3000&pause=1000&color=00FF66%C2%A2er=true&vCenter=true&width=800&height=50&lines=Software+Engineer;API+Integration+Developer;Web+Development;Application+Development;AI+Enthusiast"/>
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
     <!-- Integrations & Others -->
     <td width="50%" valign="top" style="padding: 10px;">
       <h3>🔗 APIs & Integrations</h3>
-      <p style="font-size: 13px; color: #8b949e;">Building OAuth flows and integrating third-party APIs and services.</p>
+      <p style="font-size: 13px; color: #8b949e;">Building OAuth flows and integrating third party APIs.</p>
       <img src="https://skillicons.dev/icons?i=discord,instagram,bots,gmail"/>
     </td>
   </tr>
